@@ -27,7 +27,7 @@ ABOUT:
 Modules required :
 
    django : Django Installation
-   djangorestframework_simplejwt :
-
-    pip install djangorestframework_simplejwt
+   
+    djangorestframework_simplejwt :
+     pip install djangorestframework_simplejwt
 
