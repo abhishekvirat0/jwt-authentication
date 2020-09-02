@@ -1,4 +1,4 @@
-# cj-app
+# jwt-authentication in Django
 Django 2.1 - Python 3.5
 
 PROJECT START STEPS:
